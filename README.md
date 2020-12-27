@@ -33,12 +33,26 @@ http://github.com - automatic!
   <ol>
     <details><summary>classification</summary>
       <ol>
+        <a href='link'>p1</a></br>
+        p2</br>
+        p3</br>
+      </ol>
+    </details>
+    <details><summary>regression</summary>
+      <ol>
         <li>p1</li>
         <li>p1</li>
         <li>p1</li>
       </ol>
     </details>
-    <details><summary>regression</summary>
+    <details><summary>clusterring</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+    <details><summary>dimesionality reduction</summary>
       <ol>
         <li>p1</li>
         <li>p1</li>

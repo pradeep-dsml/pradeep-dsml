@@ -27,7 +27,9 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 -->
-<details><summary>machine learning</summary>
+# here are my projects
+## slill wise
+<p><details><summary>machine learning</summary>
   <ol>
     <details><summary>classification</summary>
       <ol>
@@ -62,4 +64,44 @@ http://github.com - automatic!
       </ol>
     </details>
   </ol>
+</details></p>
+
+## application wise
+
+<p><details><summary>machine learning</summary>
+  <ol>
+    <details><summary>classification</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+    <details><summary>regression</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+  </ol>
 </details>
+<details><summary>deep learning</summary>
+  <ol>
+    <details><summary>CNN</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+    <details><summary>RNN</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+  </ol>
+</details></p>
+

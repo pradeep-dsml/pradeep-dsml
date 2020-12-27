@@ -17,47 +17,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+[link to Google!](http://google.com)
 
-<details>
-  <summary>machine learning</summary>
-  <ul><details>
-        <summary>classification</summary>
-      </details>
-  </ul>
-  <ul><details>
-        <summary>regression</summary>
-      </details>
-  </ul>
-  </details>
-  
-  
-  <details><summary>deep learning</summary>
-  
-  <ul>
-      <details><summary>CNN</summary>
-        <details><summary>deep learning</summary>
-  
-  <ul>
-      <details><summary>CNN</summary>
-      </details>
-      <details><summary>RNN</summary>
-      </details>
-  </ul>
-  
-  </details>
-      </details>
-      <details><summary>RNN</summary>
-  <details><summary>deep learning</summary>
-  
-  <ul>
-      <details><summary>CNN</summary>
-      </details>
-      <details><summary>RNN</summary>
-      </details>
-  </ul>
-  
-  </details>
-      </details>
-  </ul>
-  
-  </details>
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+-->
+<details><summary>machine learning</summary>
+  <ol>
+    <details><summary>classification</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+    <details><summary>regression</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+  </ol>
+</details>
+<details><summary>deep learning</summary>
+  <ol>
+    <details><summary>CNN</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+    <details><summary>RNN</summary>
+      <ol>
+        <li>p1</li>
+        <li>p1</li>
+        <li>p1</li>
+      </ol>
+    </details>
+  </ol>
+</details>

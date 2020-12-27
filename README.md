@@ -31,14 +31,33 @@ Here are some ideas to get you started:
   </details>
   
   
-  <details>
-  <summary>deep learning</summary>
-  <ul><details>
-        <summary>CNN</summary>
+  <details><summary>deep learning</summary>
+  
+  <ul>
+      <details><summary>CNN</summary>
+        <details><summary>deep learning</summary>
+  
+  <ul>
+      <details><summary>CNN</summary>
+      </details>
+      <details><summary>RNN</summary>
       </details>
   </ul>
-  <ul><details>
-        <summary>RNN</summary>
+  
+  </details>
+      </details>
+      <details><summary>RNN</summary>
+  <details><summary>deep learning</summary>
+  
+  <ul>
+      <details><summary>CNN</summary>
+      </details>
+      <details><summary>RNN</summary>
       </details>
   </ul>
+  
+  </details>
+      </details>
+  </ul>
+  
   </details>

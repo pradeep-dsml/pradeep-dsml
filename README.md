@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://share.streamlit.io/
 -->
 
 # My Work Examples 
 ## Deployment on cloud Services
 
 - [ML model(WebApp)deployed on Heroku](link)
+- [ML model(WebApp)deployed on Streamlit Share](https://share.streamlit.io/)
 - [ML model(WebApp)deployed on Google Cloud Platform(GCP)](link)
 - [ML model(WebApp)deployed on Amazon EC2](link)
 - [ML model(WebApp)deployed on Microsoft Azure](link)

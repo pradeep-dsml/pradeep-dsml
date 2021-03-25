@@ -62,7 +62,11 @@ Here are some ideas to get you started:
 	
 
 - ### Web Scraping
-	- [Web Scraping NY Times article](https://github.com/pradeep-dsml/Web-Scraping/tree/main/Web%20Scraping%20NY%20Times):  Scraping NY Times newspaper article about Precident Trump's lies with date,link and reference, storing it in a structured table in .csv file formate. 
+	- [Web Scraping NY Times article](https://github.com/pradeep-dsml/Web-Scraping/tree/main/Web%20Scraping%20NY%20Times):  Scraping NY Times newspaper article about Precident Trump's lies with date,link and reference, storing it in a structured table in .csv file formate.
+
+- ### Natural Language Processing
+	- [Text Classification in scikit-learn(Spam Detection)](https://github.com/pradeep-dsml/text-classification/tree/main/spam%20detection):  A model to classify text data for spam detection on sms data using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes and Logistic regression classifiers.
+	- [Yelp reviews star prediction(text classification)](https://github.com/pradeep-dsml/text-classification/tree/main/yelp%20review):  A model to classify text data for yelp bussiness review (star rating) prediction (binary class and 5-class both) using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes classifiers.
 
 	
 - ### Other(Miscellaneous)

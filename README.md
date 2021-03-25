@@ -1,7 +1,7 @@
 ### Hi there. I am PRADEEP YADAV 👋
 
-- 🔭 I’m currently working on PYTHON, MACHINE LEARNING, DEEP LEARNING, DATA ANALYSIS/DATA SCIENCE
-- 🌱 I’m currently learning PYTHON, MACHINE LEARNING, DEEP LEARNING, DATA ANALYSIS/DATA SCIENCE
+- 🔭 I’m currently working on Python, Machine Learning, Deep Learning, Data Analytics, Data Science
+- 🌱 I’m currently learning Python, Machine Learning, Deep Learning, Data Analytics, Data Science
 
 <!--
 

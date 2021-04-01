@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 - ### Optimization Projects
 
 	- #### Linear Programming
-		- [Text Classification in scikit-learn(Spam Detection)](https://github.com/pradeep-dsml/text-classification/tree/main/spam%20detection):  A model to classify text data for spam detection on sms data using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes and Logistic regression classifiers.
+		- [Transportation Problem](Link):  A model to classify text data for spam detection on sms data using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes and Logistic regression classifiers.
 
 	- #### Dynamic Programming
-		- [Text Classification in scikit-learn(Spam Detection)](https://github.com/pradeep-dsml/text-classification/tree/main/spam%20detection):  A model to classify text data for spam detection on sms data using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes and Logistic regression classifiers.
+		- [Coin Change Problem](link):  A model to classify text data for spam detection on sms data using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes and Logistic regression classifiers.
 
 	
 - ### Other(Miscellaneous) Projects

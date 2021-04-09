@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Python, Machine Learning, Deep Learning, Data Analytics, Data Science
 - 🌱 I’m currently learning Python, Machine Learning, Deep Learning, Data Analytics, Data Science
-- [Here is my Resume](https://github.com/pradeep-dsml/My_Resume/blob/main/Pradeep_dataAnalyst-Scientist_resume.pdf)
+- [Here is my Resume]()
 
 <!--
 

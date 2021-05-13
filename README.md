@@ -94,3 +94,10 @@ Here are some ideas to get you started:
 
      - #### XYZ2
 		- [Place Holder2](link): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+
+- ## Certification/BootCamp
+	- [The Complete SQL Bootcamp 2021: Go from Zero to Hero]()
+	- [Data Science and Machine Learning Bootcamp with R]()
+	- [Spark and Python for Big Data with PySpark]()
+	- [Complete Tensorflow 2 and Keras Deep Learning Bootcamp]()
+	- [The Complete Tableau Bootcamp for Data Visualization]()

@@ -92,6 +92,6 @@ Here are some ideas to get you started:
  - The Complete SQL Bootcamp 2021: Go from Zero to Hero [(Link to Certificate)](https://github.com/pradeep-dsml/My_Certification/blob/main/SQL%20Certificate(pdf).pdf)
  - Data Science and Machine Learning Bootcamp with R [(Link to Certificate)](https://github.com/pradeep-dsml/My_Certification/blob/main/DS_ML%20in%20RCertificate(pdf).pdf)
  - Spark and Python for Big Data with PySpark [(Link to Certificate)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark_BigData%20Certificate(pdf).pdf)
- - PySpark Essentials for Data Scientists (Big Data + Python) [(Link to Certificate)](https://github.com/pradeepdsml/My_Certification/blob/main/PySpark%20Essentials%20Certificate(pdf).pdf)
+ - PySpark Essentials for Data Scientists (Big Data + Python) [(Link to Certificate)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark%20Essentials%20Certificate(pdf).pdf)
  - Complete Tensorflow 2 and Keras Deep Learning Bootcamp [(Link to Certificate)]()
  - The Complete Tableau Bootcamp for Data Visualization [(Link to Certificate)]()

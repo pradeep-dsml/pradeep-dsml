@@ -83,4 +83,9 @@
  - Complete Tensorflow 2 and Keras Deep Learning Bootcamp     **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/TensorFlow2_Keras%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-588790cd-b513-4815-8d40-cbac716a7bd7/)]**
  - Spark and Python for Big Data with PySpark                 **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark_BigData%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-642c0722-af01-4e86-8693-b6d3c25379e0/)]**
  - PySpark Essentials for Data Scientists (Big Data + Python) **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark%20Essentials%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-db14dc2a-618d-4bbb-b13b-441d1751e0a6/)]**
+ - Python for Time Series Data Analysis                       **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Time%20Series%20Analysis%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-edb23ae2-ead1-4fa7-987d-900cf94d72eb/)]**
+ - Python for Financial Analysis and Algorithmic Trading      **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Financial%20Analysis%20Algo%20Trading%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-dbd2d644-cc0e-4cc4-aff6-88f8c107dffe/)]**
+ - NLP-Natural Language Processing with Python                **_Link to Certificate:-_ [[(GitHub)]()|[(Udemy)]()]**
+ - Python for Computer Vision with OpenCV and Deep Learning   **_Link to Certificate:-_ [[(GitHub)]()|[(Udemy)]()]**
+ - Interactive Python Dashboards with Plotly and Dash         **_Link to Certificate:-_ [[(GitHub)]()|[(Udemy)]()]**
  

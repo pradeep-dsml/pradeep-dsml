@@ -84,7 +84,7 @@ images from MNIST.
  - PySpark Essentials for Data Scientists (Big Data + Python) ====         **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark%20Essentials%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-db14dc2a-618d-4bbb-b13b-441d1751e0a6/)]**
  - Python for Time Series Data Analysis          =================         **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Time%20Series%20Analysis%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-edb23ae2-ead1-4fa7-987d-900cf94d72eb/)]**
  - Python for Financial Analysis and Algorithmic Trading    ======         **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Financial%20Analysis%20Algo%20Trading%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-dbd2d644-cc0e-4cc4-aff6-88f8c107dffe/)]**
- - NLP-Natural Language Processing with Python          ==========         **_Link to Certificate:-_ [[(GitHub)]()|[(Udemy)]()]**
- - Python for Computer Vision with OpenCV and Deep Learning      =         **_Link to Certificate:-_ [[(GitHub)]()|[(Udemy)]()]**
+ - NLP-Natural Language Processing with Python          ==========         **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/NLP_Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-f7f4cc13-7212-42a4-93f2-4a8f12978d85/)]**
+ - Python for Computer Vision with OpenCV and Deep Learning      =         **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Computer%20Vision%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-600adf7b-ce14-43aa-bc4d-504ef3078278/)]**
  - Interactive Python Dashboards with Plotly and Dash      =======         **_Link to Certificate:-_ [[(GitHub)]()|[(Udemy)]()]**
  

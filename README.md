@@ -74,21 +74,27 @@
 images from MNIST.
 
 # Certification/BootCamp
- 
-| **Name**  | **Link to Certificates** |
-| --------- | ------------------------ |
+
+| **Name of Certificates/Bootcamps** | **Link to Certificates** |
+| ------------- | ------------- |
+| _**SQL**_  |  |
 | The Complete SQL Bootcamp 2021: Go from Zero to Hero       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/SQL%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-2b32afcf-7eca-4222-9efd-d83c4cc4c0ce/) |
+| _**Python, Data Structure and Algorithms**_  |  |
 | Complete Python Bootcamp From Zero to Hero in Python       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Python%20Bootcamp%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-430e20ca-594d-4af2-b8fe-43e95153ae13/) |
 | Python for Data Structures, Algorithms, and Interviews     | [(GitHub)]() [(Udemy)]() |
+| _**Dashboarding and Vizualization**_  |  |
 | The Complete Tableau Bootcamp for Data Visualization       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Tableau%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-679f7879-9ebd-42db-a3f5-e5cf7bfed88d/) |
+| Interactive Python Dashboards with Plotly and Dash | [(GitHub)]() [(Udemy)]() |
+| _**Machine Learning and Deep Learning**_  |  |
 | Data Science and Machine Learning Bootcamp with R          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/DS_ML%20in%20R%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-b311e2c1-16a2-4e64-a75e-e64e0661a337/) |
 | Python for Machine Learning & Data Science Masterclass     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DS_ML%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-92fb0eb2-a26c-4b3c-8a69-70d259067abe/) |
 | Complete Tensorflow 2 and Keras Deep Learning Bootcamp     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/TensorFlow2_Keras%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-588790cd-b513-4815-8d40-cbac716a7bd7/) |
-| Spark and Python for Big Data with PySpark                 | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark_BigData%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-642c0722-af01-4e86-8693-b6d3c25379e0/) |
-| PySpark Essentials for Data Scientists (Big Data + Python) | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark%20Essentials%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-db14dc2a-618d-4bbb-b13b-441d1751e0a6/) |
-| Python for Time Series Data Analysis                       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Time%20Series%20Analysis%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-edb23ae2-ead1-4fa7-987d-900cf94d72eb/) |
-| Python for Financial Analysis and Algorithmic Trading      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Financial%20Analysis%20Algo%20Trading%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-dbd2d644-cc0e-4cc4-aff6-88f8c107dffe/) |
 | NLP-Natural Language Processing with Python                | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/NLP_Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-f7f4cc13-7212-42a4-93f2-4a8f12978d85/) |
 | Python for Computer Vision with OpenCV and Deep Learning   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Computer%20Vision%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-600adf7b-ce14-43aa-bc4d-504ef3078278/) |
 | Practical AI with Python and Reinforcement Learning        | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Practical%20AI%20and%20Reinforcement%20Learning%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-cd860046-6899-443c-906c-a6781582f4ad/) |
-| Interactive Python Dashboards with Plotly and Dash | [(GitHub)]() [(Udemy)]() |
+| _**BigData/Distributed Computing**_  |  |
+| Spark and Python for Big Data with PySpark                 | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark_BigData%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-642c0722-af01-4e86-8693-b6d3c25379e0/) |
+| PySpark Essentials for Data Scientists (Big Data + Python) | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/PySpark%20Essentials%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-db14dc2a-618d-4bbb-b13b-441d1751e0a6/) |
+| _**Time Series and Financial Analysis/Forecasting**_  |  |
+| Python for Time Series Data Analysis                       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Time%20Series%20Analysis%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-edb23ae2-ead1-4fa7-987d-900cf94d72eb/) |
+| Python for Financial Analysis and Algorithmic Trading      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Financial%20Analysis%20Algo%20Trading%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-dbd2d644-cc0e-4cc4-aff6-88f8c107dffe/) |

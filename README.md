@@ -84,7 +84,7 @@ images from MNIST.
 | Python for Data Structures, Algorithms, and Interviews     | [(GitHub)]() [(Udemy)]() |
 | _**Dashboarding and Vizualization**_  |  |
 | The Complete Tableau Bootcamp for Data Visualization       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Tableau%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-679f7879-9ebd-42db-a3f5-e5cf7bfed88d/) |
-| Interactive Python Dashboards with Plotly and Dash | [(GitHub)]() [(Udemy)]() |
+| Interactive Python Dashboards with Plotly and Dash         | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Dashboarding%20Plotly%20Dash%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-44c47d07-e5a0-4372-90b1-0f4f199b4fe9/) |
 | _**Machine Learning and Deep Learning**_  |  |
 | Data Science and Machine Learning Bootcamp with R          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/DS_ML%20in%20R%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-b311e2c1-16a2-4e64-a75e-e64e0661a337/) |
 | Python for Machine Learning & Data Science Masterclass     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DS_ML%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-92fb0eb2-a26c-4b3c-8a69-70d259067abe/) |

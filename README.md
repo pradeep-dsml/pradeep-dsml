@@ -83,9 +83,9 @@ images from MNIST.
 | Complete Python Bootcamp From Zero to Hero in Python       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Python%20Bootcamp%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-430e20ca-594d-4af2-b8fe-43e95153ae13/) |
 | Python for Data Structures, Algorithms, and Interviews     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DataStructure%20Algorithms%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-7be1f504-953d-49c5-a7a6-a785969e3a0c/) |
 | _**Web Development**_  |  |
-| The Complete 2021 Web Development Bootcamp                 | [(GitHub)]() [(Udemy)]() |
-| Python and Flask Bootcamp: Create Websites using Flask     | [(GitHub)]() [(Udemy)]() |
-| Python and Django Full Stack Web Developer Bootcamp        | [(GitHub)]() [(Udemy)]() |
+| The Complete 2021 Web Development Bootcamp                 | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Web%20Dev%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-093175a2-5dfa-42c7-a623-1406d9566f14/) |
+| Python and Flask Bootcamp: Create Websites using Flask     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Flask%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-5ba7d161-e2e6-4828-902b-6f9e104083ab/) |
+| Python and Django Full Stack Web Developer Bootcamp        | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Django%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e7e91b3b-ce98-4d44-aee1-9502eb8c33f1/) |
 | _**Dashboarding and Vizualization**_  |  |
 | The Complete Tableau Bootcamp for Data Visualization       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Tableau%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-679f7879-9ebd-42db-a3f5-e5cf7bfed88d/) |
 | Interactive Python Dashboards with Plotly and Dash         | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Dashboarding%20Plotly%20Dash%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-44c47d07-e5a0-4372-90b1-0f4f199b4fe9/) |

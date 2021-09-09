@@ -89,6 +89,8 @@ images from MNIST.
 | NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Nodejs%20certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-fe66e3ce-9cb7-4757-8b56-d7ae70d1143f/) |
 | _**DevOps**_  |  |
 | Docker & Kubernetes: The Practical Guide                   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Docker%20Kubernetes%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-fc8021f6-97f3-4ca2-89f1-58f34e0c9a21/) |
+| The Git & Github Bootcamp                                  | [(GitHub)]() [(Udemy)]() |
+| The Linux Command Line Bootcamp: Beginner To Power User    | [(GitHub)]() [(Udemy)]() |
 | _**Machine Learning and Deep Learning**_  |  |
 | Data Science and Machine Learning Bootcamp with R          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/DS_ML%20in%20R%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-b311e2c1-16a2-4e64-a75e-e64e0661a337/) |
 | Python for Machine Learning & Data Science Masterclass     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DS_ML%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-92fb0eb2-a26c-4b3c-8a69-70d259067abe/) |

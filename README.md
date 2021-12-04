@@ -17,6 +17,7 @@
 	- [Supply Chain Smart Contract]():  This is sample blockchain, Ethereum project.
 	- [Lottery Smart Contract]():  This is sample blockchain, Ethereum project.
 	- [Auction/Bidding Smart Contract]():  This is sample blockchain, Ethereum project.
+	- [Shared Wallet Smart Contract]():  This is sample blockchain, Ethereum project.
 
 
 - ### Classification(Machine Learning/Artificial intelligence)

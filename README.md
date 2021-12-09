@@ -1,4 +1,4 @@
-### Hi there!. I'm Pradeep Yadav
+### Hi there!. 👋 &nbsp; I'm Pradeep Yadav
 ---
 ### 👨🏻‍💻 &nbsp;About Me
 

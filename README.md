@@ -2,10 +2,10 @@
 ---
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Backend Developer working remotely in India.
-- 💼 &nbsp; Best Selling Instructor (Explore my courses on Python Programming, Django Framework and Data Structures Algorithms).
-- 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
-- ⚡️ &nbsp; Fun fact: I like playing chess.
+- 🤔 &nbsp; FullStack/Blockchain Software Developer
+- 💼 &nbsp; Having knowledge/familiarity of Software Engineering, Web Development, Machine Learning and DevOps.
+- 🌱 &nbsp; Learning more about Entrepreneurship, Web3, Blockchain, CryptoCurrencies, and NFTs.
+- ⚡️ &nbsp; Fun fact: I like Futuristic Technologies ,Science Fiction and Infinite Space.
 
 ---
 ### 🛠 &nbsp;Languages and Tools

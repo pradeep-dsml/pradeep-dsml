@@ -103,10 +103,14 @@ images from MNIST.
 | Complete DApp - Solidity & React - Blockchain Development  | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Dapp(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d891a8fd-66aa-47a7-894e-3ca0d83c0040/) |
 | Ethereum and Solidity: The Complete Developer's Guide      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Solidity(Blockchain).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-600c4b84-25c4-4029-bc95-c9aa678e32f8/) |
 | The Complete Solidity Course - Blockchain - Zero to Expert | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Solidoty(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e4dc4fbe-3333-4912-9761-9ce4057eb785/) |
+| Ethereum Blockchain Developer Bootcamp With Solidity (2021)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Web%20Developer.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d1afdc79-364c-48b5-b8f7-f800ef553a68/) |
+| The Complete NFT Web Development Course - Zero To Expert   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/NFT%20Web%20Development.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-c4ee678a-4dac-4af5-9c3d-ce31e2b6278d/) |
 | _**DevOps**_  |  |
 | Docker & Kubernetes: The Practical Guide                   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Docker%20Kubernetes%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-fc8021f6-97f3-4ca2-89f1-58f34e0c9a21/) |
 | The Git & Github Bootcamp                                  | [(GitHub)]() [(Udemy)]() |
 | The Linux Command Line Bootcamp: Beginner To Power User    | [(GitHub)]() [(Udemy)]() |
+
+<!--
 | _**Machine Learning and Deep Learning**_  |  |
 | Data Science and Machine Learning Bootcamp with R          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/DS_ML%20in%20R%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-b311e2c1-16a2-4e64-a75e-e64e0661a337/) |
 | Python for Machine Learning & Data Science Masterclass     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DS_ML%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-92fb0eb2-a26c-4b3c-8a69-70d259067abe/) |
@@ -114,7 +118,6 @@ images from MNIST.
 | NLP-Natural Language Processing with Python                | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/NLP_Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-f7f4cc13-7212-42a4-93f2-4a8f12978d85/) |
 | Python for Computer Vision with OpenCV and Deep Learning   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Computer%20Vision%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-600adf7b-ce14-43aa-bc4d-504ef3078278/) |
 | Practical AI with Python and Reinforcement Learning        | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Practical%20AI%20and%20Reinforcement%20Learning%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-cd860046-6899-443c-906c-a6781582f4ad/) |
-<!--
 | _**Dashboarding and Vizualization**_  |  |
 | The Complete Tableau Bootcamp for Data Visualization       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Tableau%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-679f7879-9ebd-42db-a3f5-e5cf7bfed88d/) |
 | Interactive Python Dashboards with Plotly and Dash         | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Dashboarding%20Plotly%20Dash%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-44c47d07-e5a0-4372-90b1-0f4f199b4fe9/) |

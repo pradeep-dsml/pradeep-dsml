@@ -97,7 +97,7 @@ images from MNIST.
 | React - The Complete Guide (incl Hooks, React Router,Redux)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20js%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d81e512c-6705-4b50-a70a-09cb8545aa90/) |
 | React Native - The Practical Guide [2021 Edition]          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20Native%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-3a482a02-bd49-4923-9cf6-5b0f70ea57c4/) |
 | NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Nodejs%20certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-fe66e3ce-9cb7-4757-8b56-d7ae70d1143f/) |
-| _**Blockchain and Ethereum**_  |  |
+| _**Web3, Blockchain and NFTs**_  |  |
 | Complete DApp - Solidity & React - Blockchain Development  | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Dapp(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d891a8fd-66aa-47a7-894e-3ca0d83c0040/) |
 | Ethereum and Solidity: The Complete Developer's Guide      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Solidity(Blockchain).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-600c4b84-25c4-4029-bc95-c9aa678e32f8/) |
 | The Complete Solidity Course - Blockchain - Zero to Expert | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Solidoty(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e4dc4fbe-3333-4912-9761-9ce4057eb785/) |

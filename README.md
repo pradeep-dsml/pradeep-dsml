@@ -93,8 +93,6 @@ images from MNIST.
 | _**Web Development**_  |  |
 | JavaScript - The Complete Guide 2021 (Beginner + Advanced) | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/WebDev/Javascript%20the%20complete%20guide.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-cb6449ab-8b3e-4b33-beab-50786fe81653/) |
 | The Complete 2021 Web Development Bootcamp                 | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Web%20Dev%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-093175a2-5dfa-42c7-a623-1406d9566f14/) |
-| Python and Flask Bootcamp: Create Websites using Flask     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Flask%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-5ba7d161-e2e6-4828-902b-6f9e104083ab/) |
-| Python and Django Full Stack Web Developer Bootcamp        | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Django%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e7e91b3b-ce98-4d44-aee1-9502eb8c33f1/) |
 | React, NodeJS, Express & MongoDB - The MERN Fullstack Guide| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/MERN%20Stack%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-f3583717-bfb2-48b6-889e-722df3da30b7/) |
 | React - The Complete Guide (incl Hooks, React Router,Redux)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20js%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d81e512c-6705-4b50-a70a-09cb8545aa90/) |
 | React Native - The Practical Guide [2021 Edition]          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20Native%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-3a482a02-bd49-4923-9cf6-5b0f70ea57c4/) |
@@ -111,6 +109,11 @@ images from MNIST.
 | The Linux Command Line Bootcamp: Beginner To Power User    | [(GitHub)]() [(Udemy)]() |
 
 <!--
+
+| Python and Flask Bootcamp: Create Websites using Flask     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Flask%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-5ba7d161-e2e6-4828-902b-6f9e104083ab/) |
+| Python and Django Full Stack Web Developer Bootcamp        | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Django%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e7e91b3b-ce98-4d44-aee1-9502eb8c33f1/) |
+
+
 | _**Machine Learning and Deep Learning**_  |  |
 | Data Science and Machine Learning Bootcamp with R          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/DS_ML%20in%20R%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-b311e2c1-16a2-4e64-a75e-e64e0661a337/) |
 | Python for Machine Learning & Data Science Masterclass     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DS_ML%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-92fb0eb2-a26c-4b3c-8a69-70d259067abe/) |

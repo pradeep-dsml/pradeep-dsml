@@ -21,9 +21,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-Express-336791?style=flat&logo=express)
-  ![React](https://img.shields.io/badge/-React-336791?style=flat&logo=react)
-  ![Node](https://img.shields.io/badge/-Node-336791?style=flat&logo=node)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
   ![Metamask](https://img.shields.io/badge/-Metamask-336791?style=flat&logo=Metamask)

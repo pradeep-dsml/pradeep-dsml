@@ -13,7 +13,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
-
+  
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
@@ -23,10 +23,15 @@
   ![React](https://img.shields.io/badge/-React-336791?style=flat&logo=react)
   ![Node](https://img.shields.io/badge/-Node-336791?style=flat&logo=node)
   
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
+  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+  ![Metamask](https://img.shields.io/badge/-Metamask-336791?style=flat&logo=Metamask)
+  ![Remix](https://img.shields.io/badge/-Remix-336791?style=flat&logo=remix)
+  ![Truffle](https://img.shields.io/badge/-Truffle-336791?style=flat&logo=truffle)
+  ![Hardhat](https://img.shields.io/badge/-Hardhat-336791?style=flat&logo=Hardhat)
+  ![Ganache](https://img.shields.io/badge/-Ganache-336791?style=flat&logo=ganache)
+  ![Web3js](https://img.shields.io/badge/-Web3js-336791?style=flat&logo=web3js)
+  ![Etherjs](https://img.shields.io/badge/-Etherjs-336791?style=flat&logo=etherjs)
+  ![NFTs](https://img.shields.io/badge/-NFTs-333333?style=flat&logo=nfts)
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

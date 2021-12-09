@@ -9,7 +9,7 @@
 # My Work Examples 
 
 
-- ### Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
+- ### Web3, Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
 	- [Will/Testament(Property Inheritance) Smart Contract]():  This is sample blockchain, Ethereum project.
 	- [Crypto Token- ERC20]():  This is sample blockchain, Ethereum project.
 	- [Non Fungable Token(NFTs)- ERC721,ERC-1155]():  This is sample blockchain, Ethereum project.

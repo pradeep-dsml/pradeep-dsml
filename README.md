@@ -50,6 +50,13 @@
 
 
 - ### Web3, Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
+	- [Web3/ Decentralized Application(Dapp)]():  This is sample blockchain, Ethereum project.
+	- [NFT Market Place]():  This is sample blockchain, Ethereum project.
+	- [Decentralized Finance(DeFi)]():  This is sample blockchain, Ethereum project.
+	- [CryptoCurrency/ Token]():  This is sample blockchain, Ethereum project.
+	- [Decentralized Autonomous Organization(DAO)]():  This is sample blockchain, Ethereum project.
+	- [Web2 App Clone]():  This is sample blockchain, Ethereum project.
+- ### Smart Contracts
 	- [Will/Testament(Property Inheritance) Smart Contract]():  This is sample blockchain, Ethereum project.
 	- [Crypto Token- ERC20]():  This is sample blockchain, Ethereum project.
 	- [Non Fungable Token(NFTs)- ERC721,ERC-1155]():  This is sample blockchain, Ethereum project.
@@ -57,7 +64,6 @@
 	- [Supply Chain Smart Contract]():  This is sample blockchain, Ethereum project.
 	- [Lottery Smart Contract]():  This is sample blockchain, Ethereum project.
 	- [Auction/Bidding Smart Contract]():  This is sample blockchain, Ethereum project.
-	- [Shared Wallet Smart Contract]():  This is sample blockchain, Ethereum project.
 
 
 - ### Classification(Machine Learning/Artificial intelligence)

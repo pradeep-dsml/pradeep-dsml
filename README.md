@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; FullStack/Blockchain Software Developer
-- 💼 &nbsp; Having knowledge/familiarity of Software Engineering, Web Development, Machine Learning and DevOps.
-- 🌱 &nbsp; Learning more about Entrepreneurship, Web3, Blockchain, CryptoCurrencies, and NFTs.
+- 💼 &nbsp; Having knowledge/familiarity of Software Engineering, Web Development, Web3, Blockchain, CryptoCurrencies, Dapp, Defi, DAO, and NFTs.
+- 🌱 &nbsp; Learning more about Entrepreneurship, Machine Learning, DevOps and Cloud Computing.
 - ⚡️ &nbsp; Fun fact: I like Futuristic Technologies ,Science Fiction and Infinite Space.
 
 ---

@@ -49,28 +49,31 @@
 # My Work Examples/ Projects 
 
 
-- ### Web3, Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
-	- [Web3/ Decentralized Application(Dapp)]():  This is sample blockchain, Ethereum project.
-	- [NFT Market Place]():  This is sample blockchain, Ethereum project.
-	- [Decentralized Finance(DeFi)]():  This is sample blockchain, Ethereum project.
-	- [CryptoCurrency/ Token]():  This is sample blockchain, Ethereum project.
-	- [Decentralized Autonomous Organization(DAO)]():  This is sample blockchain, Ethereum project.
-	- [Web2 App Clone]():  This is sample blockchain, Ethereum project.
-- ### Smart Contracts
-	- [Will/Testament(Property Inheritance) Smart Contract]():  This is smart contract that act as a will of Person to automatically distributes the property             into his/her decendents on his/her death.
-	- [Multi signature Wallet](): This is 3/5 multi signature wallet ie. it requres atleast 3 out of 5 person to approve before smart contract executes.
-	- [Crypto Token- ERC20]():  This is sample blockchain, Ethereum project.
-	- [Non Fungable Token(NFTs)- ERC721,ERC-1155]():  This is sample blockchain, Ethereum project.
-	- [Voting Smart Contract]():  This is sample blockchain, Ethereum project.
-	- [Supply Chain Smart Contract]():  This is sample blockchain, Ethereum project.
-	- [Lottery Smart Contract]():  This is sample blockchain, Ethereum project.
-	- [Auction/Bidding Smart Contract]():  This is sample blockchain, Ethereum project.
-
 - ### Web Development
-	- CRUD REST API [Repo Link]() [Live/Deployment Link]():- This is Web Devloment project.
-	- React App [Repo Link]() [Live/Deployment Link]():- This is Web Devloment project.
-	- MERN App [Repo Link]() [Live/Deployment Link]():- This is Web Devloment project.
-	- Landing Page App [Repo Link]() [Live/Deployment Link]():- This is Web Devloment project.
+	-  __CRUD REST API__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	- __React App__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	- __MERN App__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	- __Landing Page App__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+
+- ### Web3, Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
+	- __[Web3/ Decentralized Application(Dapp)]():-__  This is sample blockchain, Ethereum project.
+	- __[NFT Market Place]():-__  This is sample blockchain, Ethereum project.
+	- __[Decentralized Finance(DeFi)]():-__  This is sample blockchain, Ethereum project.
+	- __[CryptoCurrency/ Token]():-__  This is sample blockchain, Ethereum project.
+	- __[Decentralized Autonomous Organization(DAO)]():-__  This is sample blockchain, Ethereum project.
+	- __[Web2 App Clone]():-__  This is sample blockchain, Ethereum project.
+
+- ### Smart Contracts
+	- __[Will/Testament(Property Inheritance) Smart Contract]():-__  This is smart contract that act as a will of Person to automatically distributes the property             into his/her decendents on his/her death.
+	- __[Multi signature Wallet]():-__ This is 3/5 multi signature wallet ie. it requres atleast 3 out of 5 person to approve before smart contract executes.
+	- __[Crypto Token- ERC20]():-__  This is sample blockchain, Ethereum project.
+	- __[Non Fungable Token(NFTs)- ERC721,ERC-1155]():-__  This is sample blockchain, Ethereum project.
+	- __[Voting Smart Contract]():-__  This is sample blockchain, Ethereum project.
+	- __[Supply Chain Smart Contract]():-__  This is sample blockchain, Ethereum project.
+	- __[Lottery Smart Contract]():-__  This is sample blockchain, Ethereum project.
+	- __[Auction/Bidding Smart Contract]():-__  This is sample blockchain, Ethereum project.
+
+
 
 <!--
 

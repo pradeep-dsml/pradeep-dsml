@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; FullStack/Blockchain Software Developer
-- 💼 &nbsp; Having knowledge/familiarity of Software Engineering, Full stack Web Development(MERN), Web3, Blockchain, Crypto Currency, Dapp, Defi, DAO, and NFTs.
-- 🌱 &nbsp; Learning more about Entrepreneurship, Machine Learning, DevOps and Cloud Computing.
-- ⚡️ &nbsp; Fun fact: I like Futuristic Technologies ,Science Fiction and Infinite Space.
+- 💼 &nbsp; Having knowledge of Software Development, Full stack Web Development(MERN), Web3, Blockchain, Crypto Currency, Dapp, Defi, DAO, and NFTs.
+- 🌱 &nbsp; Learning more about Entrepreneurship, Machine Learning, DevOps, CI/CD and Cloud Technologies.
+- ⚡️ &nbsp; Fun fact: I like Futuristic Technologies, Science Fiction and Infinite Space.
 
 ---
 ### 🛠 &nbsp;Languages and Tools
@@ -50,10 +50,10 @@
 
 
 - ### Web Development
-	-  __CRUD REST API__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
-	- __React App__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
-	- __MERN App__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
-	- __Landing Page App__ [[Repo Link]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	-  __CRUD REST API__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	- __React App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	- __MERN App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	- __Landing Page App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
 
 - ### Web3, Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
 	- __[Web3/ Decentralized Application(Dapp)]():-__  This is sample blockchain, Ethereum project.
@@ -116,30 +116,33 @@ images from MNIST.
 
 | **Name of Certificates/Bootcamps** | **Link to Certificates** |
 | ------------- | ------------- |
-| _**SQL**_  |  |
-| The Complete SQL Bootcamp 2021: Go from Zero to Hero       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/SQL%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-2b32afcf-7eca-4222-9efd-d83c4cc4c0ce/) |
-| _**Python, Data Structure and Algorithms**_  |  |
-| Complete Python Bootcamp From Zero to Hero in Python       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Python%20Bootcamp%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-430e20ca-594d-4af2-b8fe-43e95153ae13/) |
-| Python for Data Structures, Algorithms, and Interviews     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DataStructure%20Algorithms%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-7be1f504-953d-49c5-a7a6-a785969e3a0c/) |
 | _**Web Development**_  |  |
-| JavaScript - The Complete Guide 2021 (Beginner + Advanced) | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/WebDev/Javascript%20the%20complete%20guide.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-cb6449ab-8b3e-4b33-beab-50786fe81653/) |
-| The Complete 2021 Web Development Bootcamp                 | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Web%20Dev%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-093175a2-5dfa-42c7-a623-1406d9566f14/) |
+| JavaScript - The Complete Guide (Beginner + Advanced)      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/WebDev/Javascript%20the%20complete%20guide.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-cb6449ab-8b3e-4b33-beab-50786fe81653/) |
+| The Complete Web Development Bootcamp                      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Web%20Dev%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-093175a2-5dfa-42c7-a623-1406d9566f14/) |
 | React, NodeJS, Express & MongoDB - The MERN Fullstack Guide| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/MERN%20Stack%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-f3583717-bfb2-48b6-889e-722df3da30b7/) |
 | React - The Complete Guide (incl Hooks, React Router,Redux)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20js%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d81e512c-6705-4b50-a70a-09cb8545aa90/) |
-| React Native - The Practical Guide [2021 Edition]          | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20Native%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-3a482a02-bd49-4923-9cf6-5b0f70ea57c4/) |
+| React Native - The Practical Guide                         | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20Native%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-3a482a02-bd49-4923-9cf6-5b0f70ea57c4/) |
 | NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Nodejs%20certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-fe66e3ce-9cb7-4757-8b56-d7ae70d1143f/) |
 | _**Web3, Blockchain and NFTs**_  |  |
 | Complete DApp - Solidity & React - Blockchain Development  | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Dapp(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d891a8fd-66aa-47a7-894e-3ca0d83c0040/) |
 | Ethereum and Solidity: The Complete Developer's Guide      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Solidity(Blockchain).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-600c4b84-25c4-4029-bc95-c9aa678e32f8/) |
 | The Complete Solidity Course - Blockchain - Zero to Expert | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Solidoty(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e4dc4fbe-3333-4912-9761-9ce4057eb785/) |
-| Ethereum Blockchain Developer Bootcamp With Solidity (2021)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Web%20Developer.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d1afdc79-364c-48b5-b8f7-f800ef553a68/) |
+| Ethereum Blockchain Developer Bootcamp With Solidity       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Web%20Developer.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d1afdc79-364c-48b5-b8f7-f800ef553a68/) |
 | The Complete NFT Web Development Course - Zero To Expert   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/NFT%20Web%20Development.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-c4ee678a-4dac-4af5-9c3d-ce31e2b6278d/) |
+
+<!--
+
+| _**SQL**_  |  |
+| The Complete SQL Bootcamp 2021: Go from Zero to Hero       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/SQL%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-2b32afcf-7eca-4222-9efd-d83c4cc4c0ce/) |
+| _**Python, Data Structure and Algorithms**_  |  |
+| Complete Python Bootcamp From Zero to Hero in Python       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Complete%20Python%20Bootcamp%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-430e20ca-594d-4af2-b8fe-43e95153ae13/) |
+| Python for Data Structures, Algorithms, and Interviews     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DataStructure%20Algorithms%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-7be1f504-953d-49c5-a7a6-a785969e3a0c/) |
+
+
 | _**DevOps**_  |  |
 | Docker & Kubernetes: The Practical Guide                   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Docker%20Kubernetes%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-fc8021f6-97f3-4ca2-89f1-58f34e0c9a21/) |
 | The Git & Github Bootcamp                                  | [(GitHub)]() [(Udemy)]() |
 | The Linux Command Line Bootcamp: Beginner To Power User    | [(GitHub)]() [(Udemy)]() |
-
-<!--
 
 | Python and Flask Bootcamp: Create Websites using Flask     | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Flask%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-5ba7d161-e2e6-4828-902b-6f9e104083ab/) |
 | Python and Django Full Stack Web Developer Bootcamp        | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20Django%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e7e91b3b-ce98-4d44-aee1-9502eb8c33f1/) |

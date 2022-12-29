@@ -50,10 +50,10 @@
 
 
 - ### Web Development
-	-  __CRUD REST API__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	-  __Landing Page__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
 	- __React App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
 	- __MERN App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
-	- __Landing Page App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	- __REST API__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
 
 - ### Web3, Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
 	- __[Web3/ Decentralized Application(Dapp)]():-__  This is sample blockchain, Ethereum project.

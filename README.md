@@ -50,7 +50,7 @@
 
 
 - ### Web Development
-	-  __Landing Page__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
+	-  __Chrome Extension(Random Joke)__ [[Repo](https://github.com/pradeep-dsml/Randome-Joke-Chrome-Extension#here-is-api-linkhttpsicanhazdadjokecomslack)]:- This is chrome extension that generates a randome joke every time it gets clicked by fetching an API using HTML, CSS, Javascript and Manifest.json.
 	- __React Note Taking App__ [[Repo](https://github.com/pradeep-dsml/React-Notes-SPA)] [[Live/Deployment Link](https://63cb9bcaca625c00085d1755--lighthearted-marzipan-1795c5.netlify.app/)]:- This is Note taking app using React having features like:- Search note, Toggle Dark mode, Add note, delete note etc.
 	- __MERN App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
 	- __REST API__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.

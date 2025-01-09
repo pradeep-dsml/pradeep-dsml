@@ -2,21 +2,21 @@
 ---
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; FullStack/Blockchain Software Developer
-- 💼 &nbsp; Having knowledge of Software Development, Full stack Web Development(MERN), Web3, Blockchain, Crypto Currency, Dapp, Defi, DAO, and NFTs.
-- 🌱 &nbsp; Learning more about Entrepreneurship, Machine Learning, DevOps, CI/CD and Cloud Technologies.
+- 🤔 &nbsp; FullStack Developer (MERN) and Mobile Developer (iOS, Android - React Native)
+- 💼 &nbsp; Having knowledge of Software Development, Full stack Web Development (MERN) and Mobile Development (iOS, Android - React Native)
+- 🌱 &nbsp; Learning more about Entrepreneurship/SaaS, Web3/Blockchain, AI(LLM, RAG, Agents/AgenticAI), DevOps, CI/CD and Cloud Technologies.
 - ⚡️ &nbsp; Fun fact: I like Futuristic Technologies, Science Fiction and Infinite Space.
 
 ---
 ### 🛠 &nbsp;Languages and Tools
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  ![TypeScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=typescript)
   
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,17 +24,7 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  
-  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
-  ![Metamask](https://img.shields.io/badge/-Metamask-336791?style=flat&logo=Metamask)
-  ![Remix](https://img.shields.io/badge/-Remix-336791?style=flat&logo=remix)
-  ![Truffle](https://img.shields.io/badge/-Truffle-336791?style=flat&logo=truffle)
-  ![Hardhat](https://img.shields.io/badge/-Hardhat-336791?style=flat&logo=Hardhat)
-  ![Ganache](https://img.shields.io/badge/-Ganache-336791?style=flat&logo=ganache)
-  ![Web3js](https://img.shields.io/badge/-Web3js-336791?style=flat&logo=web3js)
-  ![Etherjs](https://img.shields.io/badge/-Etherjs-336791?style=flat&logo=etherjs)
-  ![NFTs](https://img.shields.io/badge/-NFTs-333333?style=flat&logo=nfts)
-  
+    
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -55,6 +45,7 @@
 	- __MERN App__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
 	- __REST API__ [[Repo]()] [[Live/Deployment Link]()]:- This is Web Devloment project.
 
+
 - ### Web3, Blockchain, Dapp, DeFi, Smart Contract, CryptoCurrency, NFTs
 	- __[Web3/ Decentralized Application(Dapp)]():-__  This is sample blockchain, Ethereum project.
 	- __[NFT Market Place]():-__  This is sample blockchain, Ethereum project.
@@ -73,8 +64,6 @@
 	- __[Lottery Smart Contract]():-__  This is sample blockchain, Ethereum project.
 	- __[Auction/Bidding Smart Contract]():-__  This is sample blockchain, Ethereum project.
 
-
-
 <!--
 
 - ### Classification(Machine Learning/Artificial intelligence)
@@ -88,8 +77,7 @@
 	- [Unsupervised Learning: Creating Customer Segments](link): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 	- [Reinforcement Learning: Training a Smartcab to Drive](link): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
 
-	
-		
+			
 - ### Exploratory Data Analysis(EDA) and Vizualization
 	- [Stanford open policing EDA and Vizualization](https://github.com/pradeep-dsml/EDA/tree/main/Stanford%20open%20policing):  Doing exploratory data analysis and vizualization using _Stanford open policing project's_ data by asking some good question and answering those questions.
 	- [TED Talks EDA and Vizualization](https://github.com/pradeep-dsml/EDA/tree/main/TED%20Talks):  Doing exploratory data analysis and vizualization using _Kaggle's TED Talks data_ data by asking some good question and answering those questions.
@@ -123,14 +111,14 @@ images from MNIST.
 | React - The Complete Guide (incl Hooks, React Router,Redux)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20js%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d81e512c-6705-4b50-a70a-09cb8545aa90/) |
 | React Native - The Practical Guide                         | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/React%20Native%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-3a482a02-bd49-4923-9cf6-5b0f70ea57c4/) |
 | NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)| [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Nodejs%20certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-fe66e3ce-9cb7-4757-8b56-d7ae70d1143f/) |
+
+<!--
 | _**Web3, Blockchain and NFTs**_  |  |
 | Complete DApp - Solidity & React - Blockchain Development  | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Dapp(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d891a8fd-66aa-47a7-894e-3ca0d83c0040/) |
 | Ethereum and Solidity: The Complete Developer's Guide      | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Solidity(Blockchain).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-600c4b84-25c4-4029-bc95-c9aa678e32f8/) |
 | The Complete Solidity Course - Blockchain - Zero to Expert | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Complete%20Solidoty(Blockchain%2BEthereum).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-e4dc4fbe-3333-4912-9761-9ce4057eb785/) |
 | Ethereum Blockchain Developer Bootcamp With Solidity       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/Ethereum%20Web%20Developer.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-d1afdc79-364c-48b5-b8f7-f800ef553a68/) |
 | The Complete NFT Web Development Course - Zero To Expert   | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Blockchain/NFT%20Web%20Development.pdf) [(Udemy)](https://www.udemy.com/certificate/UC-c4ee678a-4dac-4af5-9c3d-ce31e2b6278d/) |
-
-<!--
 
 | _**SQL**_  |  |
 | The Complete SQL Bootcamp 2021: Go from Zero to Hero       | [(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/SQL%20Certificate(pdf).pdf) [(Udemy)](https://www.udemy.com/certificate/UC-2b32afcf-7eca-4222-9efd-d83c4cc4c0ce/) |
